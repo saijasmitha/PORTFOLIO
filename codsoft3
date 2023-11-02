@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>sai jasmitha - Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>sai jasmitha</h1> <!-- You can use an <img> tag for a logo if you have one -->
+        <p>Web Developer</p> <!-- Optional tagline or introduction -->
+    </header>
+
+    <section id="about">
+        <img src="your-image.jpg" alt="Your Name">
+        <p>A brief bio highlighting your skills and experience.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <img src="project1.jpg" alt="Project 1">
+            <h3>alexa</h3>
+            <p>a speaking technology
+        </div>
+        <div class="project">
+            <img src="project2.jpg" alt="Project 2">
+            <h3>milk adulteration
+            <p>finding milk process
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="your-resume.pdf" download>Download Resume (PDF)</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: saijashmithag@gmail.com
+        <p>Phone: 9390061320
+    </section>
+
+    <footer>
+        <p>&copy; 2023 saijasmitha
+    </footer>
+</body>
+</html>
